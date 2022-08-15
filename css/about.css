@@ -1,0 +1,102 @@
+html{
+    background-color:lightslategray ;
+}
+
+.titulo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: left;
+}
+
+.menu{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    height: 52px;
+    font-size: 30px;
+    text-align:center;
+    padding-left: 10%;
+    background-color:purple;
+    
+    
+}
+menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+menu ul li{
+    float:left;
+ }
+
+menu a{
+    color:palevioletred;
+    text-decoration: none;
+    display:inline-block;
+    padding: 12px 36px;
+}
+menu a:hover{
+    color:darkmagenta;
+    background-color: black;
+    text-decoration: dotted;
+}
+
+.mainpic{
+    padding-top: 0px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+.maintext{
+    text-align: center;
+    text-decoration: solid;
+    color:indigo;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+}
+
+.logos{
+    text-align: center;
+    
+    
+}
+
+.pie{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    text-decoration:none;
+ 
+}
+.ACERCATITLE{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding-top: 15px;
+    padding-left: 220px;
+}
+
+
+.imgpar1 .img1{
+    margin: 40px 40px 20px 20px;
+    padding-left: 22%;
+
+}
+.imgpar1 .img2{
+    margin: 40px 40px 20px 20px;
+    
+
+}
+.imgpar2 .img3{
+    margin: 40px 40px 20px 20px;
+    padding-left: 22%;
+}
+.imgpar2 .img4{
+    margin: 40px 40px 20px 20px;
+    
+}
+.texto {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: justify;
+}
